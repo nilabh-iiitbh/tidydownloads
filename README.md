@@ -65,3 +65,7 @@ tidydownloads --folder ~/Downloads --apply
 ## License
 
 Public domain / Unlicense. Use freely.
+
+## Author
+
+Nilabh Shivam -An Undergraduate Student @ IIIT Bhubaneswar
